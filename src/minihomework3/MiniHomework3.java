@@ -18,7 +18,7 @@ import minihomework3.Enums.TeamNames;
 /**
  *
  * @author Ari
- * GitHub link: 
+ * GitHub link: https://github.com/2022332/MiniHomework3.git
  */
 public class MiniHomework3 {
 
